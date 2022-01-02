@@ -31,6 +31,8 @@ It is based on this but with my own work   https://gem5.googlesource.com/public/
 
 #### CU Part
 ![image](https://user-images.githubusercontent.com/2059536/147867096-ade0e529-38ee-4ed2-a67f-3c587534981b.png)
+![image](https://user-images.githubusercontent.com/2059536/147867496-5314532d-a0b8-4d03-a07d-ce26daad07be.png)
+
 
 #### CPU Part
 ![image](https://user-images.githubusercontent.com/2059536/147867123-745d0df5-58e4-4d27-b6f6-f2ac268c4df6.png)
